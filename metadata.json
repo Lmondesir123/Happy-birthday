@@ -1,0 +1,7 @@
+{
+  "name": "Mission Anniversaire 30 Septembre - Tactical Celebration",
+  "description": "Interface d'anniversaire festive et tactique inspirée de Call of Duty avec déverrouillage par code d'accès, gâteau interactif 3D, musique et lettre ancienne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
